@@ -1,2 +1,2 @@
 # leetcode_template
-leetcode模板
+用于做leetcode算法竞赛的板子
